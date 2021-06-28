@@ -1,0 +1,225 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch FormApp",
+            "request": "launch",
+            "mainClass": "FormApp",
+            "projectName": "VscodeFiles_b462bca8"
+        },
+        {
+            "type": "java",
+            "name": "Launch FormTyC",
+            "request": "launch",
+            "mainClass": "FormTyC",
+            "projectName": "VscodeFiles_b462bca8"
+        },
+        {
+            "type": "java",
+            "name": "Launch FormBienvenida",
+            "request": "launch",
+            "mainClass": "FormBienvenida",
+            "projectName": "VscodeFiles_b462bca8"
+        },
+        {
+            "type": "java",
+            "name": "Launch FormRad",
+            "request": "launch",
+            "mainClass": "FormRad",
+            "projectName": "VscodeFiles_b462bca8"
+        },
+        {
+            "type": "java",
+            "name": "Launch FormTerms",
+            "request": "launch",
+            "mainClass": "FormTerms",
+            "projectName": "VscodeFiles_b462bca8"
+        },
+        {
+            "type": "java",
+            "name": "Launch FormChcBx",
+            "request": "launch",
+            "mainClass": "FormChcBx",
+            "projectName": "VscodeFiles_b462bca8"
+        },
+        {
+            "type": "java",
+            "name": "Launch FormBarMen",
+            "request": "launch",
+            "mainClass": "FormBarMen",
+            "projectName": "VscodeFiles_b462bca8"
+        },
+        {
+            "type": "java",
+            "name": "Launch BarraMenu",
+            "request": "launch",
+            "mainClass": "BarraMenu",
+            "projectName": "VscodeFiles_b462bca8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Coloreado",
+            "request": "launch",
+            "mainClass": "Coloreado",
+            "projectName": "VscodeFiles_b462bca8"
+        },
+        {
+            "type": "java",
+            "name": "Launch ComboCaja",
+            "request": "launch",
+            "mainClass": "ComboCaja",
+            "projectName": "VscodeFiles_b462bca8"
+        },
+        {
+            "type": "java",
+            "name": "Launch InterCalcula",
+            "request": "launch",
+            "mainClass": "InterCalcula",
+            "projectName": "VscodeFiles_b462bca8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Formula",
+            "request": "launch",
+            "mainClass": "Formula",
+            "projectName": "VscodeFiles_b462bca8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Form",
+            "request": "launch",
+            "mainClass": "Form",
+            "projectName": "VscodeFiles_b462bca8"
+        },
+        {
+            "type": "java",
+            "name": "Launch FormulCompleto",
+            "request": "launch",
+            "mainClass": "FormulCompleto",
+            "projectName": "VscodeFiles_b462bca8"
+        },
+        {
+            "type": "java",
+            "name": "Launch FormulBoton",
+            "request": "launch",
+            "mainClass": "FormulBoton",
+            "projectName": "VscodeFiles_b462bca8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Formulario",
+            "request": "launch",
+            "mainClass": "Formulario",
+            "projectName": "VscodeFiles_b462bca8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Matriz",
+            "request": "launch",
+            "mainClass": "Matriz",
+            "projectName": "VscodeFiles_b462bca8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Vector",
+            "request": "launch",
+            "mainClass": "Vector",
+            "projectName": "VscodeFiles_b462bca8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cadena",
+            "request": "launch",
+            "mainClass": "Cadena",
+            "projectName": "VscodeFiles_b462bca8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Comparacion",
+            "request": "launch",
+            "mainClass": "Comparacion",
+            "projectName": "VscodeFiles_b462bca8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "VscodeFiles_b462bca8"
+        },
+        {
+            "type": "java",
+            "name": "Launch CicloDo",
+            "request": "launch",
+            "mainClass": "CicloDo",
+            "projectName": "VscodeFiles_b462bca8"
+        },
+        {
+            "type": "java",
+            "name": "Launch CicloWhile",
+            "request": "launch",
+            "mainClass": "CicloWhile",
+            "projectName": "VscodeFiles_b462bca8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ciclo",
+            "request": "launch",
+            "mainClass": "Ciclo",
+            "projectName": "VscodeFiles_b462bca8"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalculadoraSwitch",
+            "request": "launch",
+            "mainClass": "CalculadoraSwitch",
+            "projectName": "VscodeFiles_b462bca8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Vacaciones",
+            "request": "launch",
+            "mainClass": "Vacaciones",
+            "projectName": "VscodeFiles_b462bca8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Calculadora",
+            "request": "launch",
+            "mainClass": "Calculadora",
+            "projectName": "VscodeFiles_b462bca8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Promedio",
+            "request": "launch",
+            "mainClass": "Promedio",
+            "projectName": "VscodeFiles_b462bca8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Suma",
+            "request": "launch",
+            "mainClass": "Suma",
+            "projectName": "VscodeFiles_b462bca8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Errores",
+            "request": "launch",
+            "mainClass": "Errores",
+            "projectName": "VscodeFiles_b462bca8"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuickStart",
+            "request": "launch",
+            "mainClass": "QuickStart",
+            "projectName": "VscodeFiles_b462bca8"
+        }
+    ]
+}
